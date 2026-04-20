@@ -20,56 +20,61 @@ Data was manually collected from three job platforms (JobsDB, CTgoodjobs, Recrui
 4. Key Findings
 
 
-💰 Salary by Platform
+Salary by Platform
 
-👉 JobsDB highest, Recruit lowest
-
+➤JobsDB highest, Recruit lowest
 ![Salary Chart](images/4.png)
 
 ⸻
 
-📈 Experience vs Salary
+Experience vs Salary
 
-👉 Strong positive relationship
-👉 3–5 years = major jump
-
-⸻
-
-🎓 Degree vs Salary
-
-👉 Degree helps, but not required
+➤Strong positive relationship
+➤3–5 years = major jump
+![Salary Chart](images/3.png)
 
 ⸻
 
-🧠 Combined Analysis
+Degree vs Salary
 
-👉 Experience > Degree
-
-⸻
-
-🏢 Platform Requirements
-
-👉 JobsDB = high requirement
-👉 Recruit = entry level
+➤Degree helps, but not required
+![Salary Chart](images/9.png)
 
 ⸻
 
-📍 Location Distribution
+Combined Analysis
 
-👉 Industrial area highest
-
-⸻
-
-🎁 Salary vs Benefits
-
-👉 No clear linear relationship
-👉 Possible data limitation
+➤Experience > Degree
+![Salary Chart](images/6.png)
+![Salary Chart](images/7.png)
 
 ⸻
 
-📌 5. Conclusion（🔥加分位）
+Platform Requirements
 
-👉
+➤JobsDB = high requirement
+➤Recruit = entry level
+![Salary Chart](images/5.png)
+
+⸻
+
+Location Distribution
+
+➤Industrial area highest
+![Salary Chart](images/8.png)
+
+⸻
+
+➤Salary vs Benefits
+
+➤No clear linear relationship
+➤Possible data limitation
+![Salary Chart](images/10.png)
+
+⸻
+
+5. Conclusion
+
 
 Experience is the most significant factor affecting salary in the IT job market.
 Education plays a role but is not a strict requirement.
