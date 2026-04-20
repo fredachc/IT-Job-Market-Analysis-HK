@@ -24,6 +24,8 @@ Data was manually collected from three job platforms (JobsDB, CTgoodjobs, Recrui
 
 👉 JobsDB highest, Recruit lowest
 
+![Salary Chart](images/4.png)
+
 ⸻
 
 📈 Experience vs Salary
