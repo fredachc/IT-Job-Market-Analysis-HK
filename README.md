@@ -72,7 +72,7 @@ Location Distribution
 
 ⸻
 
-➤Salary vs Benefits
+Salary vs Benefits
 
 ➤No clear linear relationship
 ➤Possible data limitation
