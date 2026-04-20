@@ -31,6 +31,7 @@ Salary by Platform
 Experience vs Salary
 
 ➤Strong positive relationship
+
 ➤3–5 years = major jump
 
 ![Salary Chart](images/3.png)
@@ -58,6 +59,7 @@ Combined Analysis
 Platform Requirements
 
 ➤JobsDB = high requirement
+
 ➤Recruit = entry level
 
 ![Salary Chart](images/5.png)
@@ -75,6 +77,7 @@ Location Distribution
 Salary vs Benefits
 
 ➤No clear linear relationship
+
 ➤Possible data limitation
 
 ![Salary Chart](images/10.png)
